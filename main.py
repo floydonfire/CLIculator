@@ -43,3 +43,5 @@ def calc():
         else: print("Invalid entry\n")
 
 print(calc())
+
+# This is a note
