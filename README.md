@@ -1,8 +1,8 @@
 # CLIculator
-A very simple calculator written in Python
+A very simple calculator written in Python.
 
 ## Getting started
-CLIculator has no GUI and runs in CLI only
+CLIculator has no GUI and runs in CLI only.
 
 ### Prerequisities
 ```
@@ -10,7 +10,7 @@ Python 3
 ```
 
 ### Functions
-CLUculator can add, substract, multiply and divide
+CLUculator can add, substract, multiply and divide.
 
 ## Licence
 Copyright 2019 Will Jackson
